@@ -1,5 +1,5 @@
 {
-    "name": "smix/chebsql",
+    "name": "php-slonik/chebsql",
     "type": "library",
     "autoload": {
         "psr-4": {
