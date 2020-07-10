@@ -1,0 +1,9 @@
+{
+    "name": "smix/chebsql",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "phpslonik\\chebsql\\": "/src"
+        }
+    }
+}
